@@ -95,8 +95,6 @@ Python | Pandas | Matplotlib | Jupyter Notebook
 
 ---
 
----
-
 <h2 align="center">🏆 Skills </h2>
 
 <p align="center">
