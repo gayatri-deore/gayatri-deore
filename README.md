@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=200&section=header&text=Gayatri%20Deore&fontSize=60&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Gayatri%20Deore&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 </div>
 
@@ -90,12 +90,14 @@ Artificial Intelligence & Data Science Student | Exploring Technology, Data & In
 
 ## 📈 Most Used Languages
 
+<h2 align="center">📊 Most Used Languages</h2>
 
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayatri-deore&layout=compact&hide_border=true&count_private=true"/>
-</p>
-
+<div align="center">
+<img 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayatri-deore&layout=compact&langs_count=8&theme=tokyonight&bg_color=0D1117&title_color=00BFFF&text_color=FFFFFF&border_color=00BFFF"
+width="400"
+/>
+</div>
 
 
 ---
