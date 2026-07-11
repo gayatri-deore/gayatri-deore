@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Gayatri Deore</h1>
 
 <h3 align="center">
-💙 Artificial Intelligence & Data Science Student | Developer | Data Enthusiast
+ Artificial Intelligence & Data Science Student | Developer | Data Enthusiast
 </h3>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ---
 
-<h2 align="center">💙 About Me</h2>
+<h2 align="center"> About Me</h2>
 
 🎓 B.Tech Student in **Artificial Intelligence & Data Science**  
 💻 Interested in **Artificial Intelligence, Data Science, Machine Learning & Software Development**  
@@ -26,13 +26,28 @@
 
 ---
 
-<h2 align="center">🛠️ Tech Stack</h2>
+## 🛠️ Tech Stack
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,java,c,html,css,javascript,php,mysql,git,github,vscode,androidstudio&perline=6"/>
-
+### Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,c"/>
 </p>
+
+### Web Development
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,php"/>
+</p>
+
+### Data Science & AI
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow"/>
+</p>
+
+### Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio"/>
+</p>
+
 
 ---
 
@@ -57,22 +72,15 @@ ESP32 | Sensors | Firebase | MQTT | HTML | JavaScript
 **Technologies:**  
 Python | Pandas | Matplotlib | Jupyter Notebook
 
-
-### 🌾 Crop Prediction Using Machine Learning
-
-- Built a machine learning model for crop prediction
-- Applied data analysis techniques for agricultural insights
-
-**Technologies:**  
-Python | Machine Learning | Data Analysis
-
 ---
 
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gayatri-deore&show_icons=true&theme=transparent&title_color=00BFFF&icon_color=00BFFF&text_color=0077B6&border_color=87CEEB"/>
+<img src="https://github-readme-stats.vercel.app/api?username=gayatri-deore&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gayatri-deore&theme=tokyonight"/>
 
 </p>
 
