@@ -91,7 +91,7 @@ Python | Pandas | Matplotlib | Jupyter Notebook
 ✨ Completed Diploma in Computer Engineering  
 ✨ Built IoT and Data Science based projects  
 ✨ Practicing Data Structures & Algorithms  
-✨ Exploring Artificial Intelligence and Machine Learning  
+✨ Exploring Artificial Intelligence and Data Science 
 
 ---
 
@@ -103,7 +103,7 @@ Python | Pandas | Matplotlib | Jupyter Notebook
 
 <img src="https://img.shields.io/badge/Python-87CEEB?style=for-the-badge&logo=python&logoColor=black"/>
 <img src="https://img.shields.io/badge/C++-87CEEB?style=for-the-badge&logo=cplusplus&logoColor=black"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-87CEEB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Android%20Development-87CEEB?style=for-the-badge&logo=android&logoColor=black"/>
 <img src="https://img.shields.io/badge/Data%20Science-87CEEB?style=for-the-badge"/>
 
 </p>
