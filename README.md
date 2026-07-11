@@ -126,6 +126,6 @@ Python | Pandas | Matplotlib | Jupyter Notebook
 
 <div align="center">
 
- *"Learning today, building tomorrow 🚀"* 🚀
+ *Learning today, building tomorrow 🚀*
 
 </div>
