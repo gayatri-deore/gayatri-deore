@@ -86,17 +86,18 @@ Python | Pandas | Matplotlib | Jupyter Notebook
 
 ---
 
-<h2 align="center">💻 Most Used Languages</h2>
+## 🏆 Achievements & Learning
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayatri-deore&layout=compact&theme=transparent&title_color=00BFFF&text_color=0077B6&border_color=87CEEB"/>
-
-</p>
+✨ Completed Diploma in Computer Engineering  
+✨ Built IoT and Data Science based projects  
+✨ Practicing Data Structures & Algorithms  
+✨ Exploring Artificial Intelligence and Machine Learning  
 
 ---
 
-<h2 align="center">🏆 Skills & Learning</h2>
+---
+
+<h2 align="center">🏆 Skills </h2>
 
 <p align="center">
 
